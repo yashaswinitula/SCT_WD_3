@@ -32,10 +32,11 @@ The game automatically detects winning conditions and displays the current game 
 
 ## 📂 Project Structure
 ## ▶️ Live Demo
-👉 https://your-username.github.io/your-repository-name/
+👉 https://yashaswinitula.github.io/SCT_WD_3/
 
-_(Replace with your actual GitHub Pages link)_
+
 
 ## 📸 Output Screenshot
-![Calculator Output](output.png)
+<img width="1879" height="896" alt="Screenshot 2025-12-23 203159" src="https://github.com/user-attachments/assets/75a54958-b5d6-4eb0-833e-5e82394b742e" />
+
 
